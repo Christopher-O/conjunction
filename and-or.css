@@ -1,4 +1,8 @@
 @charset "utf-8";
+ul[class*=cnjnctn-type-] {
+	list-style:none;
+	padding-left:0;
+}
 [class*=cnjnctn-type-] {
 	display: flex;
 	flex-wrap: nowrap;
