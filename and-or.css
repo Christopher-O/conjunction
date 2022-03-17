@@ -56,6 +56,7 @@ ul[class*=cnjnctn-type-] {
 	position: absolute;
 	text-align: center;
 	width: 30px;
+	left: auto;
 }
 .cnjnctn-type-or [class*=cnjnctn-col]:not(:first-child):before {
 	border-radius: 50%;
